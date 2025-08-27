@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect } => 'react';
+import React, { useState, useEffect } from 'react';
 import { ClipboardIcon } from './icons/ClipboardIcon';
 import { CheckIcon } from './icons/CheckIcon';
 
